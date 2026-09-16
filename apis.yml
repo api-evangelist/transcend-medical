@@ -23,16 +23,15 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/transcend-medical.png
 name: Transcend Medical
-description: Transcend Medical was a medical device company based in Menlo Park, California,
-  developing minimally invasive glaucoma surgery (MIGS) devices. Spun out of the ForSight Labs
-  ophthalmic incubator, its lead product was the CyPass Micro-Stent, a suprachoroidal implant
-  designed to lower intraocular pressure in patients with mild-to-moderate glaucoma undergoing
-  cataract surgery. The company raised roughly $89.8M across multiple venture rounds from
-  investors including Canaan Partners, HLM Venture Partners, Finistere Ventures, Kaiser Permanente
-  Ventures, Latterell Venture Partners, Morgenthaler Ventures, Split Rock Partners and Technology
-  Partners, and was acquired by Novartis's Alcon eye-care business in February 2016. It operated
-  no public API, developer platform, or software product; the transcendmedical.com domain no longer
-  resolves following the company's absorption into Alcon.
+description: Transcend Medical was a medical device company based in Menlo Park, California, developing
+  minimally invasive glaucoma surgery (MIGS) devices. Spun out of the ForSight Labs ophthalmic incubator,
+  its lead product was the CyPass Micro-Stent, a suprachoroidal implant designed to lower intraocular
+  pressure in patients with mild-to-moderate glaucoma undergoing cataract surgery. The company raised
+  roughly $89.8M across multiple venture rounds from investors including Canaan Partners, HLM Venture
+  Partners, Finistere Ventures, Kaiser Permanente Ventures, Latterell Venture Partners, Morgenthaler Ventures,
+  Split Rock Partners and Technology Partners, and was acquired by Novartis's Alcon eye-care business
+  in February 2016. It operated no public API, developer platform, or software product; the transcendmedical.com
+  domain no longer resolves following the company's absorption into Alcon.
 url: https://raw.githubusercontent.com/api-evangelist/transcend-medical/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -45,7 +44,7 @@ x-defunct-reason: acquired-by-alcon-2016
 x-api-surface: none
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Medical Devices
@@ -55,6 +54,7 @@ tags:
 - Healthcare
 - Venture Backed
 - Acquired
+- Defunct
 tags_raw:
 - Company
 - Medical Devices
